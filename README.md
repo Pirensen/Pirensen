@@ -33,12 +33,13 @@
 
 ### 🚀 Featured Repositories
 
-<a href="https://github.com/Pirensen/ColdWallet" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pirensen&repo=ColdWallet&hide_title=true&hide_border=true&theme=transparent&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/Pirensen/iOSPluginization" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pirensen&repo=iOSPluginization&hide_title=true&hide_border=true&theme=transparent&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff" />
-</a>
+📦 **[ColdWallet](https://github.com/Pirensen/ColdWallet)** · A secure iOS cryptocurrency wallet application supporting multiple blockchain networks. Built with SwiftUI.
+
+📦 **[iOSPluginization](https://github.com/Pirensen/iOSPluginization)** · iOS Pluginization architecture practice with Swift.
+
+📦 **[Algorithm](https://github.com/Pirensen/Algorithm)** · Swift algorithm & data structure practice.
+
+📦 **[weex-prs](https://github.com/Pirensen/weex-prs)** · Project with self experiment.
 
 ---
 
