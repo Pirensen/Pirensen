@@ -25,7 +25,7 @@
 
 | Category | Stack |
 |----------|-------|
-| **Mobile** | iOS, Swift, SwiftUI, Flutter, KMP|
+| **Mobile** | iOS, Swift, SwiftUI, Flutter, KMP |
 | **Crypto** | Blockchain, Cold Wallet |
 | **Tooling** | Xcode, GitHub Actions |
 
@@ -33,14 +33,12 @@
 
 ### 🚀 Featured Repositories
 
-<p>
-  <a href="https://github.com/Pirensen/ColdWallet" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pirensen&repo=ColdWallet&hide_title=true&hide_border=true&theme=transparent&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff" />
-  </a>
-  <a href="https://github.com/Pirensen/iOSPluginization" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pirensen&repo=iOSPluginization&hide_title=true&hide_border=true&theme=transparent&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff" />
-  </a>
-</p>
+<a href="https://github.com/Pirensen/ColdWallet" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pirensen&repo=ColdWallet&hide_title=true&hide_border=true&theme=transparent&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/Pirensen/iOSPluginization" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pirensen&repo=iOSPluginization&hide_title=true&hide_border=true&theme=transparent&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff" />
+</a>
 
 ---
 
