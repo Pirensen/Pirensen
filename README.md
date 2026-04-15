@@ -25,7 +25,7 @@
 
 | Category | Stack |
 |----------|-------|
-| **Mobile** | iOS, Swift, SwiftUI |
+| **Mobile** | iOS, Swift, SwiftUI, Flutter, KMP|
 | **Crypto** | Blockchain, Cold Wallet |
 | **Tooling** | Xcode, GitHub Actions |
 
