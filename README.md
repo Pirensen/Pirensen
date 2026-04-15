@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm dazed (Pirensen)
+# 👋 Hi there, I'm Ray (Pirensen)
 
 <p>
   <img src="https://img.shields.io/badge/iOS-Developer-blue?style=flat-square&logo=apple" />
